@@ -12,4 +12,6 @@ MySQL queries
 
 Cada una de las sucursales de la provincia de Córdoba, dispusieron un Excel donde registraron el porcentaje de comisión que se le otorgó a cada uno de los empleados sobre la venta que realizaron.
 
-6) ¿Cuál es la sucursal con mayor ganancia neta en 2020 en la provincia de Córdoba si además quitamos los pagos por comisiones?
+6) ¿Cuál es el código de empleado del empleado que mayor comisión obtuvo en diciembre del año 2020?
+
+7) ¿Cuál es la sucursal con mayor ganancia neta en 2020 en la provincia de Córdoba si además quitamos los pagos por comisiones?
